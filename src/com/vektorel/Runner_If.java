@@ -3,6 +3,9 @@ package com.vektorel;
 public class Runner_If {
 
 	public static void main(String[] args) {
+		
+		// Burada eksiklik olmuþ bukodsonradan eklendi
+		String ifade ="var";
 		int durum =1;
 		// if(condition){}
 		//1. kullaným
